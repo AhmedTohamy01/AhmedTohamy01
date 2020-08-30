@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/atohamy/)
 [![Outlook](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ahmed-tohamy@outlook.com)
 
-<img width="50%" align="right" alt="Github" src="./img/developer.jpg" />
+<img width="50%" align="right" alt="developer" src="https://image.freepik.com/free-vector/web-developer-works-laptop-horizontal-banner-with-young-programmer-job-colorful-illustration-flat-style_198278-423.jpg" />
 
 I have a long journey with technology. I'm currently a ***REACT Front-end Developer*** has a solid Back-end knowledge.
 <br>

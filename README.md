@@ -14,6 +14,8 @@ I have experience in HTML | CSS | JavaScript | React | Redux | SASS | BootStrap 
 
 I started my career as an IT Engineer and I have over 15 years of technical and managerial experience in IT which made me an IT Expert. Then I founded a Tech Startup and I was the CEO for 3 years, during the last 5 years of my professional career I was working with international teams in 100% remote work environments.
 
+I'm eager to learn , open to change my way in thinking and implementing things, open to learn new technologies, frameworks and development techniques everyday!
+
 You are welcome to reach me anytime if you want to discuss a business relationship, business cooperation or job offer through my email: Ahmed-Tohamy@outlook.com. 
 
 <p align="center">

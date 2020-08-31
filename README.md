@@ -18,7 +18,7 @@ I have a long journey with technology. From 15 years in IT to CEO for a tech sta
 <br><br>
 I'm always eager to learn , open to change my way in thinking and implementing things, open to learn new technologies, frameworks and development techniques everyday!
 
-**Do i sound like a good fit for your team?**
+***Do i sound like a good fit for your team?***
 <br>
 Get in touch with me at Ahmed-Tohamy@outlook.com or through my linkedIn (link above).
 

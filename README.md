@@ -12,7 +12,7 @@
 I'm a skilled ***React Front-end Developer***  have solid Back-end knowledge and have a business background.
 <br>
 I can comfortably build solutions based on ideas, solve business puzzles, and give professional advice with my business acumen and coding knowledge.
-<br><br>
+<br>
 
 ***My Coding Skills:***<br>
 I have experience in HTML | CSS | JavaScript | React | Redux | SASS | BootStrap | Ruby | Ruby on Rails | RSpec | SQL | Git | Github | VSCode | Firbase | Heroku.

@@ -14,11 +14,11 @@ I can comfortably build solutions based on ideas, solve business puzzles, and gi
 <br><br>
 I have experience in HTML | CSS | JavaScript | React | Redux | SASS | BootStrap | Ruby | Ruby on Rails | RSpec | SQL | Git | Github | VSCode | Firbase | Heroku.
 
-I have a long journey with technology. From 15 years in IT to CEO for a tech startup for 3 years, Then i discovered my passion for coding! So, I joined one of the best coding boot-camps worldwide, where i spend 1500+ hour in coding with many other developers from different countries .
+I have a long journey with technology. From 15 years in IT to CEO for a tech startup for 3 years, Then i discovered my passion for coding! So, I joined one of the best coding boot-camps worldwide, where i spent 1500+ hour in coding with many other developers from different countries .
 <br><br>
 I'm always eager to learn , open to change my way in thinking and implementing things, open to learn new technologies, frameworks and development techniques everyday!
 
-Do i sound like a good fit for your team?
+**Do i sound like a good fit for your team?**
 <br>
 Get in touch with me at Ahmed-Tohamy@outlook.com or through my linkedIn (link above).
 

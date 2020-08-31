@@ -11,14 +11,10 @@
 I'm a skilled ***React Front-end Developer***  have solid Back-end knowledge and have a business background.
 <br>
 I can comfortably build solutions based on ideas, solve business puzzles, and give professional advice with my business acumen and coding knowledge.
-<br>
-I have experience in HTML | CSS | JavaScript | React | Redux | SASS | BootStrap | Ruby | Ruby on Rails | RSpec | SQL | Git | Github | VSCode.
+<br><br>
+I have experience in HTML | CSS | JavaScript | React | Redux | SASS | BootStrap | Ruby | Ruby on Rails | RSpec | SQL | Git | Github | VSCode | Firbase | Heroku.
 
-I have a long journey with technology. I started my career as an IT Engineer and I have over 15 years of technical and managerial experience in IT which made me an IT Expert. Then I founded a tech startup and I was the CEO for 3 years, and during the last 5 years of my professional career  I was working 100% remotely with international teams.
-
-Then i discovered my passion for coding!
-<br>
-So, I joined one of the best coding boot-camps worldwide, where i spend 1500+ hour in coding with many other developers from different countries .
+I have a long journey with technology. From 15 years in IT to CEO for a tech startup for 3 years, Then i discovered my passion for coding! So, I joined one of the best coding boot-camps worldwide, where i spend 1500+ hour in coding with many other developers from different countries .
 <br><br>
 I'm always eager to learn , open to change my way in thinking and implementing things, open to learn new technologies, frameworks and development techniques everyday!
 

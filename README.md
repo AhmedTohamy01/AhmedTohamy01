@@ -8,15 +8,24 @@
 
 <img width="50%" align="right" alt="developer" src="https://image.freepik.com/free-vector/web-developer-works-laptop-horizontal-banner-with-young-programmer-job-colorful-illustration-flat-style_198278-423.jpg" />
 
-I have a long journey with technology. I'm currently a ***React Front-end Developer*** has a solid Back-end knowledge.
+I'm a skilled ***React Front-end Developer***  have solid Back-end knowledge and have a business background.
+<br>
+I can comfortably build solutions based on ideas, solve business puzzles, and give professional advice with my business acumen and coding knowledge.
 <br>
 I have experience in HTML | CSS | JavaScript | React | Redux | SASS | BootStrap | Ruby | Ruby on Rails | RSpec | SQL | Git | Github | VSCode.
 
-I started my career as an IT Engineer and I have over 15 years of technical and managerial experience in IT which made me an IT Expert. Then I founded a Tech Startup and I was the CEO for 3 years, during the last 5 years of my professional career I was working with international teams in 100% remote work environments.
+I have a long journey with technology. I started my career as an IT Engineer and I have over 15 years of technical and managerial experience in IT which made me an IT Expert. Then I founded a tech startup and I was the CEO for 3 years, and during the last 5 years of my professional career  I was working 100% remotely with international teams.
 
-I'm eager to learn , open to change my way in thinking and implementing things, open to learn new technologies, frameworks and development techniques everyday!
+Then i discovered my passion for coding!
+<br>
+So, I joined one of the best coding boot-camps worldwide, where i spend 1500+ hour in coding with many other developers from different countries .
+<br><br>
+I'm always eager to learn , open to change my way in thinking and implementing things, open to learn new technologies, frameworks and development techniques everyday!
 
-You are welcome to reach me anytime if you want to discuss a business relationship, business cooperation or job offer through my email: Ahmed-Tohamy@outlook.com. 
+Do i sound like a good fit for your team?
+<br>
+Get in touch with me at Ahmed-Tohamy@outlook.com or through my linkedIn (link above).
+
 
 <p align="center">
   <span align="center" class="d-flex">

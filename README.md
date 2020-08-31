@@ -8,17 +8,21 @@
 
 <img width="50%" align="right" alt="developer" src="https://image.freepik.com/free-vector/web-developer-works-laptop-horizontal-banner-with-young-programmer-job-colorful-illustration-flat-style_198278-423.jpg" />
 
+***About Me:***<br>
 I'm a skilled ***React Front-end Developer***  have solid Back-end knowledge and have a business background.
 <br>
 I can comfortably build solutions based on ideas, solve business puzzles, and give professional advice with my business acumen and coding knowledge.
 <br><br>
+
+***My Coding Skills:***<br>
 I have experience in HTML | CSS | JavaScript | React | Redux | SASS | BootStrap | Ruby | Ruby on Rails | RSpec | SQL | Git | Github | VSCode | Firbase | Heroku.
 
+***My Background:***<br>
 I have a long journey with technology. From 15 years in IT to CEO for a tech startup for 3 years, Then i discovered my passion for coding! So, I joined one of the best coding boot-camps worldwide, where i spent 1500+ hours in coding with many other developers from different countries .
 <br><br>
 I'm always eager to learn , open to change my way in thinking and implementing things, open to learn new technologies, frameworks and development techniques everyday!
 
-***Do i sound like a good fit for your team?***
+***Do I Sound Like a Good Fit For Your Team?***
 <br>
 Get in touch with me at Ahmed-Tohamy@outlook.com or through my linkedIn (link above).
 

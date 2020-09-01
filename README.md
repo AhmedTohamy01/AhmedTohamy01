@@ -9,7 +9,7 @@
 <img width="50%" align="right" alt="developer" src="https://image.freepik.com/free-vector/web-developer-works-laptop-horizontal-banner-with-young-programmer-job-colorful-illustration-flat-style_198278-423.jpg" />
 
 ***About Me:***<br>
-I'm a skilled ***React Front-end Developer***  have solid Back-end knowledge and have a business background.
+I'm a skilled ***React Front-end Developer***,  have solid Back-end knowledge and have a business background.
 <br>
 I can comfortably build solutions based on ideas, solve business puzzles, and give professional advice with my business acumen and coding knowledge.
 <br>

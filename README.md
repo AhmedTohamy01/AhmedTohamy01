@@ -48,7 +48,7 @@ Get in touch with me at Ahmed-Tohamy@outlook.com or through my linkedIn (link ab
     <img title="Git" alt="Git" height=40 src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png">
     <img title="VSCode" alt="VSCode" height=40 src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
     <img title="Firebase" alt="Firbase" height=40 src="https://cdn.iconscout.com/icon/free/png-512/firebase-1-282796.png">
-    <img title="Firebase" alt="Firbase" height=40 src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38840/preview.svg">
+    <img title="Heroku" alt="Heroku" height=40 src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38840/preview.svg">
   </span>
 </p>
 

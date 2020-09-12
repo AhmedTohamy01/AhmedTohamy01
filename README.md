@@ -5,6 +5,9 @@
 ### And I'm Open for Job Offers ! :tada: 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/atohamy/)
 [![Outlook](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ahmed-tohamy@outlook.com)
+[![Resume](https://img.shields.io/badge/-Resume-black)](https://github.com/AhmedTohamy01/AhmedTohamy01/blob/master/CV/Ahmed%20Tohamy%20Resume%20-%20Web%20Developer%20v1.3.pdf)
+
+
 
 <img width="50%" align="right" alt="developer" src="https://image.freepik.com/free-vector/web-developer-works-laptop-horizontal-banner-with-young-programmer-job-colorful-illustration-flat-style_198278-423.jpg" />
 
@@ -15,7 +18,7 @@ I can comfortably build solutions based on ideas, solve business puzzles, and gi
 <br>
 
 ***My Coding Skills:***<br>
-I have experience in HTML | CSS | JavaScript | React | Redux | SASS | BootStrap | Ruby | Ruby on Rails | RSpec | SQL | Git | Github | VSCode | Code Linter | Firbase | Heroku | Github Pages | RESTful API.
+I have experience in HTML | CSS | JavaScript | React | Redux | SASS | BootStrap | Ruby | Ruby on Rails | RSpec | SQL | Git | Github | VSCode | Code Linter | Firbase | Heroku | Github Pages | RESTful API | JSON | AJAX | JSX | Responsive Design | Mobile-First Design.
 
 ***My Background:***<br>
 I have a long journey with technology. From 15 years in IT to CEO for a tech startup for 3 years, Then i discovered my passion for coding! So, I joined one of the best coding boot-camps worldwide, where i spent 1500+ hours in coding with many other developers from all over the world .

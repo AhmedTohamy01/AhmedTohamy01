@@ -18,7 +18,7 @@ I can comfortably build solutions based on ideas, solve business puzzles, and gi
 I have experience in HTML | CSS | JavaScript | React | Redux | SASS | BootStrap | Ruby | Ruby on Rails | RSpec | SQL | Git | Github | VSCode | Code Linter | Firbase | Heroku | Github Pages | RESTful API.
 
 ***My Background:***<br>
-I have a long journey with technology. From 15 years in IT to CEO for a tech startup for 3 years, Then i discovered my passion for coding! So, I joined one of the best coding boot-camps worldwide, where i spent 1500+ hours in coding with many other developers from different countries .
+I have a long journey with technology. From 15 years in IT to CEO for a tech startup for 3 years, Then i discovered my passion for coding! So, I joined one of the best coding boot-camps worldwide, where i spent 1500+ hours in coding with many other developers from all over the world .
 <br><br>
 I'm always eager to learn , open to change my way in thinking and implementing things, open to learn new technologies, frameworks and development techniques everyday!
 

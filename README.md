@@ -1,7 +1,7 @@
 
 
 
-### Hi there 👋, I'm Ahmed Tohamy from Egypt, I'm a React Front-end Developer, Working Remotely. 
+### Hi there 👋, I'm Ahmed Tohamy from Egypt, I'm a Front-end Web Developer, Working Remotely. 
 ### And I'm Open for Job Offers ! :tada: 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/atohamy/)
 [![Outlook](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ahmed-tohamy@outlook.com)
@@ -9,7 +9,7 @@
 <img width="50%" align="right" alt="developer" src="https://image.freepik.com/free-vector/web-developer-works-laptop-horizontal-banner-with-young-programmer-job-colorful-illustration-flat-style_198278-423.jpg" />
 
 ***About Me:***<br>
-I'm a skilled ***React Front-end Developer*** with strong Back-end knowledge and experience, I also have strong business management background.
+I'm a skilled ***Front-end Web Developer*** with strong Back-end knowledge and experience, I also have strong business management background.
 <br>
 I can comfortably build solutions based on ideas, solve business puzzles, and give professional advice with my business acumen and coding knowledge.
 <br>

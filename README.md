@@ -18,18 +18,7 @@ I can comfortably build solutions based on ideas, solve business puzzles, and gi
 <br>
 
 ***My Coding Skills:***<br>
-I have experience in HTML | CSS | JavaScript | React | Redux | SASS | BootStrap | Ruby | Ruby on Rails | RSpec | SQL | Git | Github | VSCode | Code Linter | Firbase | Heroku | Github Pages | RESTful API |JSON | AJAX | JSX | Responsive Design | Mobile-First Design.
-
-IT Skills:
-Windows Servers | Exchange Mail Servers | Internet Gateways | Backup Techniques | Data Security | Databases | Disaster Recovery | Data Centers | Azure Cloud | Office-365.
-
-Soft Skills:
-Creativity | Problem Solving | Time Management | Communications Skills | Remote-Work | Team-Work | Leadership | Mentorship | Attention to Details | Pair-Programming.
-
-Business Skills:
-Building Business Plans | Pitching to Investors | Investment Evaluation | Business Development | Entrepreneurship Ethics | Strategic Leadership | Strategic Planning | Operations Management.
-
-Do I sound like a good fit for your team?
+I have experience in HTML | CSS | JavaScript | React | Redux | SASS | BootStrap | Ruby | Ruby on Rails | RSpec | SQL | Git | Github | VSCode | Code Linter | Firbase | Heroku | Github Pages | RESTful API | JSON | AJAX | JSX | Responsive Design | Mobile-First Design.
 
 ***My Background:***<br>
 I have a long journey with technology. From 15 years in IT to CEO for a tech startup for 3 years, Then i discovered my passion for coding! So, I joined one of the best coding boot-camps worldwide, where i spent 1500+ hours in coding with many other developers from all over the world .

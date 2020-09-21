@@ -18,7 +18,7 @@ I can comfortably build solutions based on ideas, solve business puzzles, and gi
 <br>
 
 ***My Coding Skills:***<br>
-HTML | CSS | JavaScript | TypeScript | React | Redux | SASS | BootStrap | Node.JS | Ruby | Ruby on Rails | RSpec | SQL | Git | Github | Github Flow | VSCode | Code Linter | Firbase | Heroku | Github Pages | RESTful API | JQuery |JSON | AJAX | JSX | Responsive Design | Mobile-First Design | Agile | Scrum | Pair-Programming.
+HTML | CSS | JavaScript | TypeScript | React | Redux | SASS | BootStrap | Node.JS | Ruby | Ruby on Rails | RSpec | SQL | Git | Github | Github Flow | VSCode | Code Linter | Firbase | Heroku | Github Pages | RESTful API | JQuery | JSON | AJAX | JSX | Responsive Design | Mobile-First Design | Agile | Scrum | Pair-Programming.
 
 ***My Background:***<br>
 I have a long journey with technology. From 15 years in IT to CEO for a tech startup for 3 years, Then i discovered my passion for coding! So, I joined one of the best coding boot-camps worldwide, where i spent 1500+ hours in coding with many other developers from all over the world .
@@ -37,6 +37,8 @@ Get in touch with me at Ahmed-Tohamy@outlook.com or through my linkedIn (link ab
       src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png">
     <img title="JavaScript" alt="JavaScript" height=40
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png">
+    <img title="TypeScript" alt="TypeScript" height=40
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png">
     <img title="React" alt="React" height=40 src="https://cdn.worldvectorlogo.com/logos/react.svg">
     <img title="Redux" alt="Redux" height=40 src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png">
     <img title="Sass" alt="Sass" height=40 src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png">

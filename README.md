@@ -3,7 +3,7 @@
 
 ### Hi there 👋, I'm Ahmed Tohamy from Egypt, I'm a Front-end Web Developer, Working Remotely. 
 ### And I'm Open for Job Offers ! :tada: 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/atohamy/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://bit.ly/atohamy-linkedin)
 [![Outlook](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ahmed-tohamy@outlook.com)
 [![Resume](https://img.shields.io/badge/-Resume-black)](https://github.com/AhmedTohamy01/AhmedTohamy01/blob/master/CV/Ahmed%20Tohamy%20Resume%20-%20Web%20Developer%20v1.5.pdf)
 

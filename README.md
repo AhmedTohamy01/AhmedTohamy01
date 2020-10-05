@@ -39,7 +39,8 @@ Get in touch with me at Ahmed-Tohamy@outlook.com or through my linkedIn (link ab
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png">
     <img title="TypeScript" alt="TypeScript" height=40
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png">
-    <img title="React" alt="React" height=40 src="https://cdn.worldvectorlogo.com/logos/react.svg">
+    <img title="React.JS" alt="React.js" height=40 src="https://cdn.worldvectorlogo.com/logos/react.svg">
+    <img title="Next.JS" alt="Next.js" height=40 src="https://soshace-12d3e.kxcdn.com/wp-content/uploads/2019/10/Getting-Started-with-NextJS.jpg">
     <img title="Redux" alt="Redux" height=40 src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png">
     <img title="Sass" alt="Sass" height=40 src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png">
     <img title="Bootstrap" alt="Bootstrap" height=40

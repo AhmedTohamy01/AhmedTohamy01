@@ -43,7 +43,7 @@ Get in touch with me at Ahmed-Tohamy@outlook.com or through my linkedIn (link ab
     <img title="React.JS" alt="React.js" height=40 src="https://cdn.worldvectorlogo.com/logos/react.svg">
     <img title="Next.JS" alt="Next.js" height=40 src="https://github.com/AhmedTohamy01/AhmedTohamy01/blob/master/img/nextjs.jpg">
     <img title="Tailwind CSS" alt="TailwindCSS" height=40 src="https://github.com/AhmedTohamy01/AhmedTohamy01/blob/master/img/tailwind.png">
-    <img title="Styled-Components" alt="Styled Components" height=40 src="https://github.com/AhmedTohamy01/AhmedTohamy01/blob/master/img/styled-components.png">
+    <img title="Styled-Components" alt="Styled Components" height=40 src="https://github.com/AhmedTohamy01/AhmedTohamy01/blob/master/img/styled-components2.png">
     <img title="Redux" alt="Redux" height=40 src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png">
     <img title="Sass" alt="Sass" height=40 src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png">
     <img title="Bootstrap" alt="Bootstrap" height=40

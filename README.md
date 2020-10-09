@@ -18,7 +18,7 @@ I can comfortably build solutions based on ideas, solve business puzzles, and gi
 <br>
 
 ***My Coding Skills:***<br>
-HTML | CSS |  React.JS | Next.JS | JavaScript | TypeScript | Redux | SASS | BootStrap | Node.JS | Ruby | Ruby on Rails | RSpec | SQL | Git | Github | Github Flow | VSCode | Code Linter | Firbase | Heroku | Github Pages | RESTful API | JQuery | JSON | AJAX | JSX | Responsive Design | Mobile-First Design | Agile | Scrum | Pair-Programming.
+React.JS | Next.JS | Tailwind CSS | Styled Components | HTML | CSS | JavaScript | TypeScript | Redux | SASS | BootStrap | Node.JS | Ruby | Ruby on Rails | RSpec | SQL | Git | Github | Github Flow | VSCode | Code Linter | Firbase | Heroku | Vercel | Github Pages | RESTful API | JQuery | JSON | AJAX | JSX | Responsive Design | Mobile-First Design | Agile | Scrum | Pair-Programming.
 
 ***My Background:***<br>
 I have a long journey with technology. From 15 years in IT to CEO for a tech startup for 3 years, Then i discovered my passion for coding! So, I joined one of the best coding boot-camps worldwide, where i spent 1500+ hours in coding with many other developers from all over the world .
@@ -42,6 +42,8 @@ Get in touch with me at Ahmed-Tohamy@outlook.com or through my linkedIn (link ab
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png">
     <img title="React.JS" alt="React.js" height=40 src="https://cdn.worldvectorlogo.com/logos/react.svg">
     <img title="Next.JS" alt="Next.js" height=40 src="https://github.com/AhmedTohamy01/AhmedTohamy01/blob/master/img/nextjs.jpg">
+    <img title="Tailwind CSS" alt="TailwindCSS" height=40 src="https://github.com/AhmedTohamy01/AhmedTohamy01/blob/master/img/tailwind.png">
+    <img title="Styled-Components" alt="Styled Components" height=40 src="https://github.com/AhmedTohamy01/AhmedTohamy01/blob/master/img/styled-components.png">
     <img title="Redux" alt="Redux" height=40 src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png">
     <img title="Sass" alt="Sass" height=40 src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png">
     <img title="Bootstrap" alt="Bootstrap" height=40
@@ -56,6 +58,7 @@ Get in touch with me at Ahmed-Tohamy@outlook.com or through my linkedIn (link ab
     <img title="VSCode" alt="VSCode" height=40 src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
     <img title="Firebase" alt="Firbase" height=40 src="https://cdn.iconscout.com/icon/free/png-512/firebase-1-282796.png">
     <img title="Heroku" alt="Heroku" height=40 src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38840/preview.svg">
+    <img title="Vercel" alt="Vercel" height=40 src="https://github.com/AhmedTohamy01/AhmedTohamy01/blob/master/img/vercel.png">
   </span>
 </p>
 

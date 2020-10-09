@@ -30,6 +30,7 @@ I'm always eager to learn , open to change my way in thinking and implementing t
 Get in touch with me at Ahmed-Tohamy@outlook.com or through my linkedIn (link above).
 
 
+
 <p align="center">
   <span align="center" class="d-flex">
     <img title="HTML" alt="HTML" height=40 src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png">
@@ -40,6 +41,7 @@ Get in touch with me at Ahmed-Tohamy@outlook.com or through my linkedIn (link ab
     <img title="TypeScript" alt="TypeScript" height=40
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png">
     <img title="React.JS" alt="React.js" height=40 src="https://cdn.worldvectorlogo.com/logos/react.svg">
+    <img title="Next.JS" alt="Next.js" height=40 src="https://github.com/AhmedTohamy01/AhmedTohamy01/blob/master/img/nextjs.jpg">
     <img title="Redux" alt="Redux" height=40 src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png">
     <img title="Sass" alt="Sass" height=40 src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png">
     <img title="Bootstrap" alt="Bootstrap" height=40

@@ -18,7 +18,7 @@ I can comfortably build solutions based on ideas, solve business puzzles, and gi
 <br>
 
 ***My Coding Skills:***<br>
-React.JS | Next.JS | Tailwind CSS | Styled Components | HTML | CSS | JavaScript | TypeScript | Redux | SASS | BootStrap | Node.JS | Ruby | Ruby on Rails | RSpec | SQL | Git | Github | Github Flow | VSCode | Code Linter | Firbase | Heroku | Vercel | Github Pages | REST API | JSON | JSX | Responsive Design | Mobile-First Design | Agile | Scrum | Pair-Programming.
+React.JS | Next.JS | Tailwind CSS | Styled Components | HTML | CSS | SASS | JavaScript | TypeScript | Redux | BootStrap | Node.JS | Ruby | Ruby on Rails | RSpec | SQL | Git | Github | Github Flow | VSCode | Code Linter | Firbase | Heroku | Vercel | Github Pages | REST API | JSON | JSX | Responsive Design | Mobile-First Design | Agile | Scrum | Pair-Programming.
 
 ***My Professional Skills:***<br>
 Problem Solving | Time Management | Communications Skills | Remote-Work | Team-Work | Leadership | Mentorship | Creativity | Attention to Details.

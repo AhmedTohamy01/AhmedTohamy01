@@ -8,7 +8,6 @@
 [![Resume](https://img.shields.io/badge/-Resume-black)](https://github.com/AhmedTohamy01/AhmedTohamy01/blob/master/CV/Ahmed%20Tohamy%20Resume%20-%20Web%20Developer%20v1.9.pdf)
 
 
-
 <img width="50%" align="right" alt="developer" src="https://image.freepik.com/free-vector/web-developer-works-laptop-horizontal-banner-with-young-programmer-job-colorful-illustration-flat-style_198278-423.jpg" />
 
 ***About Me:***<br>

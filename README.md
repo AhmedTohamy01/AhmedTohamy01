@@ -17,7 +17,7 @@ I can comfortably build solutions based on ideas, solve business puzzles, and gi
 <br>
 
 ***My Coding Skills:***<br>
-***React.JS*** | ***Next.JS*** | ***Tailwind CSS*** | ***Styled Components*** | HTML | CSS | SASS | ***JavaScript*** | ***TypeScript*** | Redux | BootStrap | Node.JS | Ruby | Ruby on Rails | RSpec | SQL | Git | Github | Github Flow | VSCode | Code Linter | Firbase | Heroku | Vercel | Github Pages | REST API | JSON | JSX | Responsive Design | Mobile-First Design | Agile | Scrum | Pair-Programming.
+***React.JS*** | ***Next.JS*** | ***Material UI*** |***Tailwind CSS*** | ***Styled Components*** | HTML | CSS | SASS | ***JavaScript*** | ***TypeScript*** | Redux | BootStrap | Node.JS | Ruby | Ruby on Rails | RSpec | SQL | Git | Github | Github Flow | VSCode | Code Linter | Firbase | Heroku | Vercel | Github Pages | REST API | JSON | JSX | Responsive Design | Mobile-First Design | Agile | Scrum | Pair-Programming.
 
 ***My Professional Skills:***<br>
 Problem Solving | Time Management | Communications Skills | Remote-Work | Team-Work | Leadership | Mentorship | Creativity | Attention to Details.
@@ -41,6 +41,7 @@ Get in touch with me at Ahmed-Tohamy@outlook.com or through my linkedIn (link ab
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png">
     <img title="React.JS" alt="React.js" height=40 src="https://cdn.worldvectorlogo.com/logos/react.svg">
     <img title="Next.JS" alt="Next.js" height=40 src="https://github.com/AhmedTohamy01/AhmedTohamy01/blob/master/img/nextjs.jpg">
+    <img title="Material UI" alt="Material UI" height=40 src="https://material-ui.com/static/logo_raw.svg">
     <img title="Tailwind CSS" alt="TailwindCSS" height=40 src="https://github.com/AhmedTohamy01/AhmedTohamy01/blob/master/img/tailwind.png">
     <img title="Styled-Components" alt="Styled Components" height=40 src="https://github.com/AhmedTohamy01/AhmedTohamy01/blob/master/img/styled-components2.png">
     <img title="Redux" alt="Redux" height=40 src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png">

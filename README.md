@@ -13,7 +13,7 @@
 ***About Me:***<br>
 I'm a skilled ***Frontend Web Developer*** with strong Backend knowledge and experience, I also have strong business management background.
 <br>
-I can comfortably build solutions based on ideas, solve business puzzles, and give professional advice with my business acumen and coding knowledge.
+I'm always eager to learn, open to change my way of thinking and implementing things, open to learning new technologies, frameworks, and development techniques every day!
 <br>
 
 ***My Coding Skills:***<br>
@@ -22,7 +22,6 @@ I can comfortably build solutions based on ideas, solve business puzzles, and gi
 ***My Professional Skills:***<br>
 Problem Solving | Time Management | Communications Skills | Remote-Work | Team-Work | Leadership | Mentorship | Creativity | Attention to Details.
 <br><br>
-I'm always eager to learn , open to change my way in thinking and implementing things, open to learn new technologies, frameworks and development techniques everyday!
 
 ***Do I Sound Like a Good Fit For Your Team?***
 <br>

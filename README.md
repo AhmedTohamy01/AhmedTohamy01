@@ -11,7 +11,7 @@
 <img width="50%" align="right" alt="developer" src="https://image.freepik.com/free-vector/web-developer-works-laptop-horizontal-banner-with-young-programmer-job-colorful-illustration-flat-style_198278-423.jpg" />
 
 ***About Me:***<br>
-I'm a skilled ***Frontend Web Developer*** with strong Backend knowledge and experience, I also have strong business management background.
+I'm a skilled ***Frontend Web Developer*** with strong Backend knowledge and experience, I also have a strong business management background.
 <br>
 I'm always eager to learn, open to change my way of thinking and implementing things, open to learning new technologies, frameworks, and development techniques every day!
 <br>

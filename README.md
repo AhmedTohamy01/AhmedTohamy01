@@ -11,9 +11,8 @@
 <img width="50%" align="right" alt="developer" src="https://image.freepik.com/free-vector/web-developer-works-laptop-horizontal-banner-with-young-programmer-job-colorful-illustration-flat-style_198278-423.jpg" />
 
 ***About Me:***<br>
-I'm a skilled ***Frontend Web Developer*** with strong Backend knowledge and experience,  I also have a strong business management background especially in startups, I was the CEO of a tech startup for 3 years.
+I'm a skilled ***Frontend Web Developer*** with strong Backend knowledge and experience,  I also have a strong business management background especially in startups, I was the CEO of a tech startup for 3 years. I also have 5 years of experience in Remote Work.
 <br>
-I also have 5 years of experience in Remote Work, I was working 100% remotely with international teams during the last 5 years in my career.
 <br>
 I'm always eager to learn, open to change my way of thinking and implementing things, open to learning new technologies, frameworks, and development techniques every day!
 <br>

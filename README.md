@@ -21,7 +21,6 @@ I'm always eager to learn, open to change my way of thinking and implementing th
 
 ***My Professional Skills:***<br>
 Problem Solving | Time Management | Communications Skills | Remote-Work | Team-Work | Leadership | Mentorship | Creativity | Attention to Details.
-<br><br>
 
 ***Do I Sound Like a Good Fit For Your Team?***
 <br>

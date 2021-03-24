@@ -38,7 +38,7 @@ Get in touch with me at Ahmed-Tohamy@outlook.com or through my linkedIn (link ab
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png">
     <img title="TypeScript" alt="TypeScript" height=40
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png">
-    <img title="React.JS" alt="React.js" height=55 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png">
+    <img title="React.JS" alt="React.js" height=55 src="https://cdn.auth0.com/blog/react-js/react.png">
     <img title="Next.JS" alt="Next.js" height=40 src="https://github.com/AhmedTohamy01/AhmedTohamy01/blob/master/img/nextjs.jpg">
     <img title="Material UI" alt="Material UI" height=40 src="https://material-ui.com/static/logo_raw.svg">
     <img title="Tailwind CSS" alt="TailwindCSS" height=40 src="https://github.com/AhmedTohamy01/AhmedTohamy01/blob/master/img/tailwind.png">

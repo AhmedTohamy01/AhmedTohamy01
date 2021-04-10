@@ -18,7 +18,7 @@ I'm always eager to learn, open to change my way of thinking and implementing th
 <br>
 
 ***My Coding Skills:***<br>
-***React.JS*** | ***Next.JS*** | ***Material UI*** |***Tailwind CSS*** | ***Styled Components*** | HTML | CSS | SASS | ***JavaScript*** | ***TypeScript*** | Redux | BootStrap | Node.JS | Ruby | Ruby on Rails | RSpec | SQL | Git | Github | Github Flow | VSCode | Code Linter | Firbase | Heroku | Vercel | Github Pages | REST API | JSON | JSX | Responsive Design | Mobile-First Design | Agile | Scrum | Pair-Programming.
+***React.JS*** | ***Next.JS*** | ***TypeScript*** | ***Redux*** | ***Styled Components*** | ***Material UI*** | ***Ant Design*** |  ***Tailwind CSS*** | ***JavaScript*** | HTML | CSS | SASS |  BootStrap | Node.JS | SQL | Git | Github | Gitlab | VSCode | Code Linters | Firbase | Heroku | Vercel | Github Pages | REST API | JSON | JSX | Responsive Design | Mobile-First Design | Agile | Scrum | Pair-Programming.
 
 ***My Professional Skills:***<br>
 Problem Solving | Time Management | Communications Skills | Remote-Work | Team-Work | Leadership | Mentorship | Creativity | Attention to Details.
@@ -47,9 +47,6 @@ Get in touch with me at Ahmed-Tohamy@outlook.com or through my linkedIn (link ab
     <img title="Sass" alt="Sass" height=40 src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png">
     <img title="Bootstrap" alt="Bootstrap" height=40
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png">
-    <img title="Ruby" alt="Ruby" height=40 src="https://blog.mwpreston.net/wp-content/uploads/2018/09/ruby-logo.png">
-    <img title="Ruby On Rails" alt="Ruby On Rails" height=40 src="https://guides.rubyonrails.org/images/favicon.ico">
-    <img title="RSpec" alt="RSpec" height=40 src="https://seeklogo.com/images/R/rspec-logo-DA1EE19A18-seeklogo.com.png">
     <img title="SQL" alt="SQL" height=40
       src="https://e7.pngegg.com/pngimages/614/744/png-clipart-mysql-database-mariadb-dolphin-marine-mammal-animals.png">
     <img title="Git" alt="Git" height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
